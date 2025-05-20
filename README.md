@@ -1,4 +1,4 @@
 Всем привет, разработчики данного DOS
-проекта:@RAZORITEL_GNEZD и @CJpVll .
+софта:@RAZORITEL_GNEZD и @CJpVll .
 инструкция по использованию:
 (termux) ping (название сайта например gnosis.ru)
